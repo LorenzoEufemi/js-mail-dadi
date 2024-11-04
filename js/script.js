@@ -13,7 +13,7 @@ for (let i = 0; i < email.lenght; i++) {
     emailSearch = true
     }
  };
- if (emailSearch = true ) {
+ if (emailSearch === true ) {
     console.log("Acceso consentito!")
 
  } else {
