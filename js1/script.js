@@ -1,4 +1,5 @@
 // DATI
+
 const numUser = Math.floor(Math.random() * 6) +1;
 const numComputer = Math.floor(Math.random() * 6) +1;
 
@@ -12,4 +13,4 @@ if (numUser > numComputer) {
 console.log("Il computer ha vinto!")
 } else {
     console.log("Pareggio!")
-}
+};
